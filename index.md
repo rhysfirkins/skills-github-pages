@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-            The Amazing Web Home Of Rhys Firkins
-        </title>
+        <title>The Amazing Web Home Of Rhys Firkins</title>
     </head>
     <body {
         background-image: url();
